@@ -1,2 +1,16 @@
-# Calculo-Numerico
- El repositorio contiene archivos de Excel con prácticas de Cálculo Numérico, abordando análisis de errores, métodos como Newton-Raphson para ecuaciones, Gauss-Seidel y Jacobi para sistemas lineales, interpolación de Lagrange, regresión y técnicas de integración como la regla de los trapecios y la fórmula de Simpson.
+# Cálculo Numérico en Excel
+
+Este repositorio contiene archivos de Excel con ejercicios y prácticas de la materia de Cálculo Numérico. En estos archivos se implementan métodos y técnicas numéricas para resolver problemas y analizar resultados.
+
+## Temas Incluidos
+
+- **Análisis de errores:** Números aproximados, tipos de errores y propagación.
+- **Solución de ecuaciones:** Método de Newton-Raphson.
+- **Sistemas de ecuaciones lineales:** Métodos iterativos de Gauss-Seidel y Jacobi.
+- **Interpolación:** Polinomio interpolador de Lagrange.
+- **Regresión:** Lineal y no lineal.
+- **Integración aproximada:** Regla de los trapecios y fórmula de Simpson.
+
+## Contenido
+
+- Archivos en formato `.xlsx` con implementaciones prácticas.
